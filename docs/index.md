@@ -5,7 +5,7 @@ title: Devin Harp's Resume
 # Devin W. Harp
 
 Bioinformatics & Data Science student at Brigham Young University - Idaho
-*"A Pretty Cool Kid"* - My Mom
+*"A Pretty Cool Kid"* - My Mom Hi Devin, this its the requiered change fro project 6 ( Carlos Gerez)
 
 <div id="webaddress">
  <a href="har17107@byui.edu">har17107@byui.edu</a>
