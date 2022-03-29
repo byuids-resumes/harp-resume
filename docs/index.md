@@ -21,11 +21,8 @@ Telephone: 602-620-4104</a>
 `2019 - Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Major: Bioinformatics
-- Minor: Data Science
-- Societies: Data Science Society, Neuroscience Society
-- Relevant courses taken: MATH221B, MATH325, MATH335, CIT111, CSE110, CSE111, CSE250, ENG301
-- Additional courses in PHIL110 and PHIL205
+- Neuroscience Society | Data Science Society
+- Relevant courses taken: Biostatistics, Intermediate Statistics, Data Science Programming, Data Wrangling & Visualization
 
 `2021 - Present`
 __Coursera__, Online
