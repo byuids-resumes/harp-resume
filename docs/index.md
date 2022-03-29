@@ -7,7 +7,7 @@ title: Devin Harp's Resume
 Bioinformatics & Data Science student at Brigham Young University - Idaho
 
 <div id="webaddress">
-Telephone: 602-620-4104</a>
+Telephone: 602-620-4104
 | <a href="har17107@byui.edu">har17107@byui.edu</a>
 | <a href="https://byuidatascience.github.io/">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/devin7eleven/">LinkedIn</a>
